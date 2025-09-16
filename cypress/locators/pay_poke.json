@@ -1,0 +1,9 @@
+{
+  "card": ".payment_form_card_form > :nth-child(2) > .style_1_base_input",
+  "code": ".payment_form_card_form_inputs > :nth-child(2) > .style_1_base_input",
+  "time": ":nth-child(1) > .style_1_base_input",
+  "name": ".payment_form_card_form_input_last > .style_1_base_input",
+  "pay": ".style_1_base_button_payment_body > .style_1_base_button_payment",
+  "sms": ".style_1_base_input"
+}
+
